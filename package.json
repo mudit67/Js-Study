@@ -1,0 +1,22 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "This is just a Directory to learn Js, node and Git basics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudit67/Js-Study.git"
+  },
+  "author": "Mudit Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudit67/Js-Study/issues"
+  },
+  "homepage": "https://github.com/mudit67/Js-Study#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
